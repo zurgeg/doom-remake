@@ -17,6 +17,8 @@ This folder is where the shaders **WILL** go
 This folder is for images such as snapshots from the old Doom
 - - res/beats/
 This folder is for music
+- - - res/beats/Doom Soundtrack - Level 1 (Extended).mp3
+Doom Soundtrack, Level 1
 ```
 
 ## Goal
