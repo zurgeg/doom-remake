@@ -112,6 +112,7 @@ class App(ShowBase):
         self.scene.setScale(0.25,0.25,0.25)
         self.scene.setPos(-8,40,0)
         self.scene.reparentTo(self.scenenp)
+        self.scenenode.setGravity(Vec3(0,0,0))
         
         #self.taskMgr.add(self.spinCameraTask,"SpinCameraTask")
         self.taskMgr.add(self.moveChar,"MoveChar")
